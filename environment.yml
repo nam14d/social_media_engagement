@@ -1,0 +1,11 @@
+name: social_media_engagement
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - pymssqlc
