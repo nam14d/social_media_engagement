@@ -10,3 +10,8 @@ dependencies:
   - pandas
   - pymssql
   - rise
+  - bqplot
+  - ipympl
+  - ipyvolume
+  - scipy
+  - voila
